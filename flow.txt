@@ -1,0 +1,15 @@
+Quiz-app flow
+
+Display start screen
+click start and first question
+second question
+third question
+fourth question
+fifth question
+sixth question
+seventh question
+eighth question
+nineth question
+tenth question
+score board with score 
+Do you want to play again
